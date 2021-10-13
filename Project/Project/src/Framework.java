@@ -117,7 +117,7 @@ public class Framework extends JFrame implements ActionListener {
 	 * make everything "active".
 	 */
 	private void initializeApp() {
-		this.setTitle("Art Explorer CS144");
+		this.setTitle("Art Explorer");
 		buttonPanel = new JPanel();
 
 		previousButton = new JButton("Previous");
